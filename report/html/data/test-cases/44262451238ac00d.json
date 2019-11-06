@@ -1,0 +1,92 @@
+{
+  "uid" : "44262451238ac00d",
+  "name" : "test_login1[loginMsg1-成功]",
+  "fullName" : "testcase.sjht_login.test_001_login.TestLogin#test_login1",
+  "historyId" : "235d32c6be4d0127239317ff85317968",
+  "time" : {
+    "start" : 1571903617082,
+    "stop" : 1571903617134,
+    "duration" : 52
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '成功' != '成功'",
+  "statusTrace" : "self = <testcase.sjht_login.test_001_login.TestLogin object at 0x000001BB86147320>, loginMsg = {'login': 'admin', 'pwd': '111111'}\nreturnMsg = '成功'\n\n    @pytest.mark.parametrize('loginMsg, returnMsg', [(login_data.data, login_data.msg), (login_data.data3, login_data.msg3)])\n    def test_login1(self, loginMsg, returnMsg):\n        msg = self.getresponse_text(loginMsg)\n        msg = json.loads(msg)['msg']\n        print(msg)\n>       assert msg != returnMsg\nE       AssertionError: assert '成功' != '成功'\n\ntestcase\\sjht_login\\test_001_login.py:26: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1571903616996,
+      "stop" : 1571903616996,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1571903617138,
+      "stop" : 1571903617138,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase.sjht_login"
+  }, {
+    "name" : "suite",
+    "value" : "test_001_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "YC-20190315YFJP"
+  }, {
+    "name" : "thread",
+    "value" : "4628-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.sjht_login.test_001_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "loginMsg",
+    "value" : "{'login': 'admin', 'pwd': '111111'}"
+  }, {
+    "name" : "returnMsg",
+    "value" : "'成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44262451238ac00d.json",
+  "parameterValues" : [ "{'login': 'admin', 'pwd': '111111'}", "'成功'" ]
+}

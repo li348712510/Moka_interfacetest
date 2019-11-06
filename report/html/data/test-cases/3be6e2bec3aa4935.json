@@ -1,0 +1,84 @@
+{
+  "uid" : "3be6e2bec3aa4935",
+  "name" : "test_out_confirm",
+  "fullName" : "testcase.sjht_sygl.test_003_cash-manager_single_out_confirm.TestOutConfirm#test_out_confirm",
+  "historyId" : "8241798716978fffea2729b857e4477c",
+  "time" : {
+    "start" : 1571902717140,
+    "stop" : 1571902717350,
+    "duration" : 210
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1571902717140,
+      "stop" : 1571902717140,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1571902717350,
+      "stop" : 1571902717350,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase.sjht_sygl"
+  }, {
+    "name" : "suite",
+    "value" : "test_003_cash-manager_single_out_confirm"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOutConfirm"
+  }, {
+    "name" : "host",
+    "value" : "YC-20190315YFJP"
+  }, {
+    "name" : "thread",
+    "value" : "1240-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.sjht_sygl.test_003_cash-manager_single_out_confirm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3be6e2bec3aa4935.json",
+  "parameterValues" : [ ]
+}

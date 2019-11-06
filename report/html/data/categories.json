@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '用户名或密码错误' != '用户名或密码错误'",
+      "children" : [ {
+        "name" : "test_login1[loginMsg0-用户名或密码错误]",
+        "uid" : "1946956ff7e3b8da",
+        "parentUid" : "e7f00d345a3e665661d478abb885c926",
+        "status" : "failed",
+        "time" : {
+          "start" : 1571904117826,
+          "stop" : 1571904117910,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login': 'admin', 'pwd': '123456'}", "'用户名或密码错误'" ]
+      } ],
+      "uid" : "e7f00d345a3e665661d478abb885c926"
+    }, {
+      "name" : "AssertionError: assert '成功' != '成功'",
+      "children" : [ {
+        "name" : "test_login1[loginMsg1-成功]",
+        "uid" : "ec69a9b1e1215eb9",
+        "parentUid" : "3dfa86152d859c225f1f7574e9a325e8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1571904117943,
+          "stop" : 1571904118004,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login': 'admin', 'pwd': '111111'}", "'成功'" ]
+      } ],
+      "uid" : "3dfa86152d859c225f1f7574e9a325e8"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

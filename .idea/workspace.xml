@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e85fb215-ce3e-47db-b022-316455973965" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/Mokademo/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/Mokademo/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/sjht_sygl/test_003_cash-manager_single_out_confirm.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/sjht_sygl/test_003_cash-manager_single_out_confirm.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/apitest$test_010_tip_control.coverage" NAME="test_010_tip_control Coverage Results" MODIFIED="1569326852193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_get_treasure_level.coverage" NAME="test_001_get_treasure_level Coverage Results" MODIFIED="1569484698487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/treasure_box" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_show_my_corps.coverage" NAME="test_010_show_my_corps Coverage Results" MODIFIED="1566992112155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_015_get_user_level.coverage" NAME="test_015_get_user_level Coverage Results" MODIFIED="1562846108662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_actor_apply_actor.coverage" NAME="test_004_actor_apply_actor Coverage Results" MODIFIED="1569411114140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_031_delRoomNotice.coverage" NAME="test_031_delRoomNotice Coverage Results" MODIFIED="1567501807248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_create_feedback_replay.coverage" NAME="test_009_create_feedback_replay Coverage Results" MODIFIED="1569312501050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_banner.coverage" NAME="test_004_banner Coverage Results" MODIFIED="1563172316571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_030_actorMorningRank.coverage" NAME="test_030_actorMorningRank Coverage Results" MODIFIED="1563012553739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_025_actor_income.coverage" NAME="test_025_actor_income Coverage Results" MODIFIED="1563001734836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_016_geHotRoomById.coverage" NAME="test_016_geHotRoomById Coverage Results" MODIFIED="1567061963001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_getCommentsByDynamicId.coverage" NAME="test_011_getCommentsByDynamicId Coverage Results" MODIFIED="1569316375475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_019_get_sign_in.coverage" NAME="test_019_get_sign_in Coverage Results" MODIFIED="1571190933794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_029_members_detail_h5.coverage" NAME="test_029_members_detail_h5 Coverage Results" MODIFIED="1563011841547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_041_start_end_pk.coverage" NAME="test_041_start_end_pk Coverage Results" MODIFIED="1568703374466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_show_remind_configs_findByUserId.coverage" NAME="test_006_show_remind_configs_findByUserId Coverage Results" MODIFIED="1562155711375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_change_equip.coverage" NAME="test_011_change_equip Coverage Results" MODIFIED="1570761909675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$a.coverage" NAME="a Coverage Results" MODIFIED="1562052196470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_getPersonalInfo.coverage" NAME="test_008_getPersonalInfo Coverage Results" MODIFIED="1566291564369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_fans_card_info.coverage" NAME="test_002_fans_card_info Coverage Results" MODIFIED="1569573636084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_getGussYouLikeActors.coverage" NAME="test_011_getGussYouLikeActors Coverage Results" MODIFIED="1563190987833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_receive_gift.coverage" NAME="test_001_receive_gift Coverage Results" MODIFIED="1568082179488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_show_actor_list.coverage" NAME="test_003_show_actor_list Coverage Results" MODIFIED="1563159923852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_daily_task.coverage" NAME="test_001_daily_task Coverage Results" MODIFIED="1569721519975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/daily_task" />
+    <SUITE FILE_PATH="coverage/apitest$test_028_overLiveInfo_actor.coverage" NAME="test_028_overLiveInfo_actor Coverage Results" MODIFIED="1568081355921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_get_topic_dynamics.coverage" NAME="test_006_get_topic_dynamics Coverage Results" MODIFIED="1566957518955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_actor_grade_info.coverage" NAME="test_008_actor_grade_info Coverage Results" MODIFIED="1562817592038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_glamour.coverage" NAME="test_003_glamour Coverage Results" MODIFIED="1563258225342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_live_actor_list.coverage" NAME="test_005_live_actor_list Coverage Results" MODIFIED="1569412846519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_get_common_union_billboard.coverage" NAME="test_009_get_common_union_billboard Coverage Results" MODIFIED="1565249790922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_034_week_star_actor_rank.coverage" NAME="test_034_week_star_actor_rank Coverage Results" MODIFIED="1568281032950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_hotRoomsAndOfficialRecom.coverage" NAME="test_002_hotRoomsAndOfficialRecom Coverage Results" MODIFIED="1563158258601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_hourRanking.coverage" NAME="test_002_hourRanking Coverage Results" MODIFIED="1563249245252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_nearbyRoom.coverage" NAME="test_002_nearbyRoom Coverage Results" MODIFIED="1569722574491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_039_quit_match.coverage" NAME="test_039_quit_match Coverage Results" MODIFIED="1568690074519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_apple_perday_total.coverage" NAME="test_010_apple_perday_total Coverage Results" MODIFIED="1569404022585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_show_remind_configs_update.coverage" NAME="test_004_show_remind_configs_update Coverage Results" MODIFIED="1562134401883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_get_guard_heart.coverage" NAME="test_007_get_guard_heart Coverage Results" MODIFIED="1570586140525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_014_get_room_hlsurl.coverage" NAME="test_014_get_room_hlsurl Coverage Results" MODIFIED="1567059678255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_apply_connect_list.coverage" NAME="test_010_apply_connect_list Coverage Results" MODIFIED="1569466240935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_028_members_detail.coverage" NAME="test_028_members_detail Coverage Results" MODIFIED="1563011555314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_smash_user_list.coverage" NAME="test_003_smash_user_list Coverage Results" MODIFIED="1565590933480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_personal_to_actor_guard.coverage" NAME="test_008_personal_to_actor_guard Coverage Results" MODIFIED="1570592072363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_get_attention_actor.coverage" NAME="test_007_get_attention_actor Coverage Results" MODIFIED="1563187418949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_029_sendNewBarrage.coverage" NAME="test_029_sendNewBarrage Coverage Results" MODIFIED="1568704946294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_actor_has_corp.coverage" NAME="test_009_actor_has_corp Coverage Results" MODIFIED="1566984797784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_get_exchange_ret_vo.coverage" NAME="test_006_get_exchange_ret_vo Coverage Results" MODIFIED="1565233284021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_send_apply_message.coverage" NAME="test_011_send_apply_message Coverage Results" MODIFIED="1569466626144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/lianMai_data" />
+    <SUITE FILE_PATH="coverage/apitest$test_030_addRoomNotice.coverage" NAME="test_030_addRoomNotice Coverage Results" MODIFIED="1567501665876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_013_get_sensitive_words.coverage" NAME="test_013_get_sensitive_words Coverage Results" MODIFIED="1567050834527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_change_user_define_equip_name.coverage" NAME="test_010_change_user_define_equip_name Coverage Results" MODIFIED="1570695606485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_complete_daily_task.coverage" NAME="test_002_complete_daily_task Coverage Results" MODIFIED="1569484237289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/daily_task" />
+    <SUITE FILE_PATH="coverage/apitest$test_027_user_send_gifts.coverage" NAME="test_027_user_send_gifts Coverage Results" MODIFIED="1563010393033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_wx_app_pay.coverage" NAME="test_002_wx_app_pay Coverage Results" MODIFIED="1569395931467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_join_fans_crop.coverage" NAME="test_001_join_fans_crop Coverage Results" MODIFIED="1569549340876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_get_auction_product_list.coverage" NAME="test_004_get_auction_product_list Coverage Results" MODIFIED="1571124877318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_6" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_get_auction_bid_list.coverage" NAME="test_007_get_auction_bid_list Coverage Results" MODIFIED="1571300859577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_6" />
+    <SUITE FILE_PATH="coverage/apitest$test_038_random_quit_match.coverage" NAME="test_038_random_quit_match Coverage Results" MODIFIED="1568690357347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_013_exchangeGift.coverage" NAME="test_013_exchangeGift Coverage Results" MODIFIED="1562842195405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_create_user_feedback.coverage" NAME="test_010_create_user_feedback Coverage Results" MODIFIED="1569313640448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_lotteryRank.coverage" NAME="test_005_lotteryRank Coverage Results" MODIFIED="1565228203637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_backpack_detail.coverage" NAME="test_011_backpack_detail Coverage Results" MODIFIED="1562834549139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_get_pay_type.coverage" NAME="test_005_get_pay_type Coverage Results" MODIFIED="1569398599903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_getMonthLiveRecord.coverage" NAME="test_003_getMonthLiveRecord Coverage Results" MODIFIED="1562121578283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_apply_connect_actor.coverage" NAME="test_006_apply_connect_actor Coverage Results" MODIFIED="1569463751009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_019_get_count_by_actorid.coverage" NAME="test_019_get_count_by_actorid Coverage Results" MODIFIED="1567071001676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_apple_petday_total.coverage" NAME="test_010_apple_petday_total Coverage Results" MODIFIED="1569403983742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_023_has_joined_the_corp.coverage" NAME="test_023_has_joined_the_corp Coverage Results" MODIFIED="1567424188500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_033_sendNewGift.coverage" NAME="test_033_sendNewGift Coverage Results" MODIFIED="1571189610245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_get_auction_product_detail_info_vo.coverage" NAME="test_005_get_auction_product_detail_info_vo Coverage Results" MODIFIED="1571298259139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_6" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_app_update_controls_detail.coverage" NAME="test_003_app_update_controls_detail Coverage Results" MODIFIED="1569323576248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_barrage_valuation_rules_list.coverage" NAME="test_006_barrage_valuation_rules_list Coverage Results" MODIFIED="1569399428763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_getTreasureMapLotteryRecord.coverage" NAME="test_004_getTreasureMapLotteryRecord Coverage Results" MODIFIED="1568078702351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_sys_settings_1.coverage" NAME="test_005_sys_settings_1 Coverage Results" MODIFIED="1569324832975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_017_backpack_goods.coverage" NAME="test_017_backpack_goods Coverage Results" MODIFIED="1562896994649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_flowersRanking.coverage" NAME="test_006_flowersRanking Coverage Results" MODIFIED="1566549406679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_fetch_user_and_icon_url_map.coverage" NAME="test_009_fetch_user_and_icon_url_map Coverage Results" MODIFIED="1562827595097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_021_userCardInfo.coverage" NAME="test_021_userCardInfo Coverage Results" MODIFIED="1571190451691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_012_actor.coverage" NAME="test_012_actor Coverage Results" MODIFIED="1563244710095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_login.coverage" NAME="test_003_login Coverage Results" MODIFIED="1568944235963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/uaa" />
+    <SUITE FILE_PATH="coverage/apitest$test_032_live_room_config.coverage" NAME="test_032_live_room_config Coverage Results" MODIFIED="1569742263766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_037_enter_leaveLiveRoom.coverage" NAME="test_037_enter_leaveLiveRoom Coverage Results" MODIFIED="1568688175131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_035_publish_effect_gift.coverage" NAME="test_035_publish_effect_gift Coverage Results" MODIFIED="1568625295591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_apple_product_list.coverage" NAME="test_009_apple_product_list Coverage Results" MODIFIED="1569326564780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_appColumns.coverage" NAME="test_009_appColumns Coverage Results" MODIFIED="1563188849074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_024_addFlowers.coverage" NAME="test_024_addFlowers Coverage Results" MODIFIED="1567477530138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_user_notices.coverage" NAME="test_001_user_notices Coverage Results" MODIFIED="1568719788250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$pytest_in_test_029_sendNewBarrage_py.coverage" NAME="pytest in test_029_sendNewBarrage.py Coverage Results" MODIFIED="1568081277225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$main.coverage" NAME="main Coverage Results" MODIFIED="1571194545911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_create_dynamic.coverage" NAME="test_003_create_dynamic Coverage Results" MODIFIED="1568079487069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_017_getByRoomId.coverage" NAME="test_017_getByRoomId Coverage Results" MODIFIED="1567065736986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_update_members_city_address.coverage" NAME="test_005_update_members_city_address Coverage Results" MODIFIED="1565946358547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_changeLikeStatus.coverage" NAME="test_007_changeLikeStatus Coverage Results" MODIFIED="1569373789886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_026_set_level_privilege.coverage" NAME="test_026_set_level_privilege Coverage Results" MODIFIED="1563007718950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_page_search.coverage" NAME="test_007_page_search Coverage Results" MODIFIED="1566962282716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_image_share_setting.coverage" NAME="test_007_image_share_setting Coverage Results" MODIFIED="1569325636324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_room_audience_list.coverage" NAME="test_009_room_audience_list Coverage Results" MODIFIED="1569465990224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_start_smash.coverage" NAME="test_001_start_smash Coverage Results" MODIFIED="1565574184444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_set_coco_auto_exchange.coverage" NAME="test_007_set_coco_auto_exchange Coverage Results" MODIFIED="1565234828008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_charge_order_confirm.coverage" NAME="test_001_charge_order_confirm Coverage Results" MODIFIED="1569393409411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_015_get_push_stream_address.coverage" NAME="test_015_get_push_stream_address Coverage Results" MODIFIED="1567060334738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_026_prohibitSpeaking.coverage" NAME="test_026_prohibitSpeaking Coverage Results" MODIFIED="1568707831575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_fans_actors_individuals_find_focused.coverage" NAME="test_007_fans_actors_individuals_find_focused Coverage Results" MODIFIED="1562813084764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_add_report_actor.coverage" NAME="test_001_add_report_actor Coverage Results" MODIFIED="1569320921013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_037_enter_leave_LiveRoom.coverage" NAME="test_037_enter_leave_LiveRoom Coverage Results" MODIFIED="1571195504481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_038_random_match.coverage" NAME="test_038_random_match Coverage Results" MODIFIED="1568689722078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_get_topic_vo_list.coverage" NAME="test_005_get_topic_vo_list Coverage Results" MODIFIED="1569724209959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_get_apply_connect_amount.coverage" NAME="test_008_get_apply_connect_amount Coverage Results" MODIFIED="1569465107442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_039_correct.coverage" NAME="test_039_correct Coverage Results" MODIFIED="1568691975651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_break_connection.coverage" NAME="test_003_break_connection Coverage Results" MODIFIED="1569410832148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_room_manager_list.coverage" NAME="test_002_room_manager_list Coverage Results" MODIFIED="1569470296485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/roomManager" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_fans_corp_set.coverage" NAME="test_005_fans-corp_set Coverage Results" MODIFIED="1563703732732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_coin_expend_rank_list.coverage" NAME="test_005_coin_expend_rank_list Coverage Results" MODIFIED="1563178952373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_first_charge_info.coverage" NAME="test_011_first_charge_info Coverage Results" MODIFIED="1569404691936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_letter_gift_list.coverage" NAME="test_008_letter_gift_list Coverage Results" MODIFIED="1569401251553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_update_members.coverage" NAME="test_004_update_members Coverage Results" MODIFIED="1571189720870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_012_get_red_envelop_record_list.coverage" NAME="test_012_get_red_envelop_record_list Coverage Results" MODIFIED="1566443796050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_receive_treasure_reward.coverage" NAME="test_002_receive_treasure_reward Coverage Results" MODIFIED="1569485022508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/treasure_box" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_add_report.coverage" NAME="test_008_add_report Coverage Results" MODIFIED="1566964534508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_fans_card_user_list.coverage" NAME="test_003_fans_card_user_list Coverage Results" MODIFIED="1569577996361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_getGiftNamingBattleBillboard.coverage" NAME="test_007_getGiftNamingBattleBillboard Coverage Results" MODIFIED="1568943141563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_send_red_envelop.coverage" NAME="test_009_send_red_envelop Coverage Results" MODIFIED="1569729672660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_equip_list.coverage" NAME="test_009_equip_list Coverage Results" MODIFIED="1570695329545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_027_kickUsersOutOfRoom.coverage" NAME="test_027_kickUsersOutOfRoom Coverage Results" MODIFIED="1567480629225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_delete_room_manager.coverage" NAME="test_003_delete_room_manager Coverage Results" MODIFIED="1569479328045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/roomManager" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_appColumnRoomInfos.coverage" NAME="test_010_appColumnRoomInfos Coverage Results" MODIFIED="1563190540237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_bid.coverage" NAME="test_006_bid Coverage Results" MODIFIED="1571300000935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_6" />
+    <SUITE FILE_PATH="coverage/apitest$test_020_get_joined_corp_num.coverage" NAME="test_020_get_joined_corp_num Coverage Results" MODIFIED="1567072089159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_getTotalLiveRecord.coverage" NAME="test_002_getTotalLiveRecord Coverage Results" MODIFIED="1562064265126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_040_friend_pk_list.coverage" NAME="test_040_friend_pk_list Coverage Results" MODIFIED="1568701569717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_exchange_coco_bean.coverage" NAME="test_008_exchange_coco_bean Coverage Results" MODIFIED="1565249268069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_getProductDetailInfo.coverage" NAME="test_002_getProductDetailInfo Coverage Results" MODIFIED="1571188317599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_6" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_addComment.coverage" NAME="test_005_addComment Coverage Results" MODIFIED="1569295243886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_master_kick_out_actor.coverage" NAME="test_004_master_kick_out_actor Coverage Results" MODIFIED="1569481199293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/roomManager" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_lastRoom.coverage" NAME="test_008_lastRoom Coverage Results" MODIFIED="1563188030590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_cancel_connect_actor.coverage" NAME="test_007_cancel_connect_actor Coverage Results" MODIFIED="1569463608666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_dynamics_delete.coverage" NAME="test_003_dynamics_delete Coverage Results" MODIFIED="1568969575301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_sys_settings_1_all.coverage" NAME="test_004_sys_settings_1_all Coverage Results" MODIFIED="1569324626543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_gift_list.coverage" NAME="test_007_gift_list Coverage Results" MODIFIED="1569400947223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_guard.coverage" NAME="test_005_guard Coverage Results" MODIFIED="1569805978308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_036_getChatRoomByRoomId.coverage" NAME="test_036_getChatRoomByRoomId Coverage Results" MODIFIED="1568628469973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_site_message.coverage" NAME="test_011_site_message Coverage Results" MODIFIED="1568704930889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1568947527923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_batch_keys_value.coverage" NAME="test_006_batch_keys_value Coverage Results" MODIFIED="1569326867072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_gold_list_setting.coverage" NAME="test_002_gold_list_setting Coverage Results" MODIFIED="1569322712769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_deleteComment.coverage" NAME="test_006_deleteComment Coverage Results" MODIFIED="1569296176126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_car_game_show_info.coverage" NAME="test_001_car_game_show_info Coverage Results" MODIFIED="1571366545101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_7" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_forget_password.coverage" NAME="test_002_forget_password Coverage Results" MODIFIED="1568946411510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/uaa" />
+    <SUITE FILE_PATH="coverage/apitest$Mysql.coverage" NAME="Mysql Coverage Results" MODIFIED="1560859243062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/apitest$test.coverage" NAME="test Coverage Results" MODIFIED="1570695335656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_updateRoom.coverage" NAME="test_001_updateRoom Coverage Results" MODIFIED="1566874713420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_start_lottery.coverage" NAME="test_001_start_lottery Coverage Results" MODIFIED="1565175812284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_012_actors_live_status.coverage" NAME="test_012_actors_live_status Coverage Results" MODIFIED="1567050115963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_fetch_adv_info.coverage" NAME="test_008_fetch_adv_info Coverage Results" MODIFIED="1569325857122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/systemconfig_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_award_history.coverage" NAME="test_004_award_history Coverage Results" MODIFIED="1571371187194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_7" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_updateHeartBeatData.coverage" NAME="test_001_updateHeartBeatData Coverage Results" MODIFIED="1563247078371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_042_show_pk_result.coverage" NAME="test_042_show_pk_result Coverage Results" MODIFIED="1568703964242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_007_getRandomHotRoom.coverage" NAME="test_007_getRandomHotRoom Coverage Results" MODIFIED="1566550199347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_021_create_user_feedback.coverage" NAME="test_021_create_user_feedback Coverage Results" MODIFIED="1566886177470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_backpack_detail.coverage" NAME="test_003_backpack_detail Coverage Results" MODIFIED="1565153045074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_week_star_gift_rank.coverage" NAME="test_008_week_star_gift_rank Coverage Results" MODIFIED="1566551769909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_reports.coverage" NAME="test_004_reports Coverage Results" MODIFIED="1569374667460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_member_cover_image.coverage" NAME="test_010_member_cover_image Coverage Results" MODIFIED="1562829183572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_accept_connectoin.coverage" NAME="test_002_accept_connectoin Coverage Results" MODIFIED="1569410348063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_get_dynamics.coverage" NAME="test_004_get_dynamics Coverage Results" MODIFIED="1569724126344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_4" />
+    <SUITE FILE_PATH="coverage/apitest$test_018_addActiveUser.coverage" NAME="test_018_addActiveUser Coverage Results" MODIFIED="1562899009937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_exchangeUserTreasureMap.coverage" NAME="test_002_exchangeUserTreasureMap Coverage Results" MODIFIED="1565147236618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5" />
+    <SUITE FILE_PATH="coverage/apitest$test_016_get_user_level_info.coverage" NAME="test_016_get_user_level_info Coverage Results" MODIFIED="1562846686030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_getLastGiftNamingBattleBillboard.coverage" NAME="test_006_getLastGiftNamingBattleBillboard Coverage Results" MODIFIED="1565947740593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_wx_js_pay.coverage" NAME="test_003_wx_js_pay Coverage Results" MODIFIED="1569395991168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_fans_actors_individuals_update.coverage" NAME="test_005_fans_actors_individuals_update Coverage Results" MODIFIED="1562152966042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_fast_login.coverage" NAME="test_001_fast_login Coverage Results" MODIFIED="1562920875288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/uaa" />
+    <SUITE FILE_PATH="coverage/apitest$test_024_live_receive_daily.coverage" NAME="test_024_live_receive_daily Coverage Results" MODIFIED="1563000479153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_liveRoomInfo_actor.coverage" NAME="test_004_liveRoomInfo_actor Coverage Results" MODIFIED="1563700204759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_009_user_charge_record.coverage" NAME="test_009_user_charge_record Coverage Results" MODIFIED="1569403609689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$test_022_getActorCoverReviewStatus.coverage" NAME="test_022_getActorCoverReviewStatus Coverage Results" MODIFIED="1562920452630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_actorRanking.coverage" NAME="test_006_actorRanking Coverage Results" MODIFIED="1563182370001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_012_getExchangeMallGifts.coverage" NAME="test_012_getExchangeMallGifts Coverage Results" MODIFIED="1562836486470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_025_room_on_line_audiences.coverage" NAME="test_025_room_on_line_audiences Coverage Results" MODIFIED="1567477786438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_dynamics_detail.coverage" NAME="test_002_dynamics_detail Coverage Results" MODIFIED="1571193780587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_008_user_notices_latest.coverage" NAME="test_008_user_notices_latest Coverage Results" MODIFIED="1569311295730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/message_center" />
+    <SUITE FILE_PATH="coverage/apitest$pytest_in_test_032_live_room_config_py.coverage" NAME="pytest in test_032_live_room_config.py Coverage Results" MODIFIED="1569292770125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_1_login.coverage" NAME="test_1_login Coverage Results" MODIFIED="1561513549689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/apitest$test_014_koi_notice.coverage" NAME="test_014_koi_notice Coverage Results" MODIFIED="1562843706874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_023_user_account_bill.coverage" NAME="test_023_user_account_bill Coverage Results" MODIFIED="1568082633939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_getProductList.coverage" NAME="test_001_getProductList Coverage Results" MODIFIED="1570794173154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_6" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_logout.coverage" NAME="test_004_logout Coverage Results" MODIFIED="1561685182595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/uaa" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_egg_show_info.coverage" NAME="test_002_egg_show_info Coverage Results" MODIFIED="1565578220328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_actor_apply_user.coverage" NAME="test_001_actor_apply_user Coverage Results" MODIFIED="1569410989715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/lianMai" />
+    <SUITE FILE_PATH="coverage/apitest$test_018_find_one.coverage" NAME="test_018_find_one Coverage Results" MODIFIED="1567070185241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_delet_one.coverage" NAME="test_004_delet_one Coverage Results" MODIFIED="1569578354520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_010_check_is_qualified.coverage" NAME="test_010_check_is_qualified Coverage Results" MODIFIED="1566440198356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_006_guard_list.coverage" NAME="test_006_guard_list Coverage Results" MODIFIED="1570529767116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_3" />
+    <SUITE FILE_PATH="coverage/apitest$test_002_fresh_total_input_data.coverage" NAME="test_002_fresh_total_input_data Coverage Results" MODIFIED="1571368828857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_7" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_add_room_manager.coverage" NAME="test_001_add_room_manager Coverage Results" MODIFIED="1569479313931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/roomManager" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_purchase_in_coco_bean.coverage" NAME="test_003_purchase_in_coco_bean Coverage Results" MODIFIED="1571189078385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_6" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_award_user_list.coverage" NAME="test_005_award_user_list Coverage Results" MODIFIED="1571380903635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_7" />
+    <SUITE FILE_PATH="coverage/apitest$test_004_ali_app_pay.coverage" NAME="test_004_ali_app_pay Coverage Results" MODIFIED="1569396203808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/settlement" />
+    <SUITE FILE_PATH="coverage/apitest$live_room_config_data.coverage" NAME="live_room_config_data Coverage Results" MODIFIED="1569724643898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/live_show_center_data" />
+    <SUITE FILE_PATH="coverage/apitest$test_011_rob_red_envelop.coverage" NAME="test_011_rob_red_envelop Coverage Results" MODIFIED="1569737198350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_5_2" />
+    <SUITE FILE_PATH="coverage/apitest$test_022_enterLiveRoom.coverage" NAME="test_022_enterLiveRoom Coverage Results" MODIFIED="1567421197736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/live_show_center" />
+    <SUITE FILE_PATH="coverage/apitest$test_001_hotRooms.coverage" NAME="test_001_hotRooms Coverage Results" MODIFIED="1563157923423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/mainPage" />
+    <SUITE FILE_PATH="coverage/apitest$test_003_start_betting.coverage" NAME="test_003_start_betting Coverage Results" MODIFIED="1571370417646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/V2_4_7" />
+    <SUITE FILE_PATH="coverage/apitest$test_005_receive_gift.coverage" NAME="test_005_receive_gift Coverage Results" MODIFIED="1562059157053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/member_center" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/delete_table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sjht_sygl_data/single_out_confirm_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/sjht_sygl/test_003_cash-manager_single_out_confirm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#26#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/Mokademo/test_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcase/Mokademo/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sjht_sygl_data/scanqueryuser_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Lib\site-packages\allure_commons</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/case/live_show_center/test_021_userCardInfo.py" />
+        <option value="$PROJECT_DIR$/case/member_center/test_019_get_sign_in.py" />
+        <option value="$PROJECT_DIR$/data/message_center_data/dynamics_detail_data.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_6_data/getProductDetailInfo_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_6/test_002_getProductDetailInfo.py" />
+        <option value="$PROJECT_DIR$/case/V2_5/test_004_getTreasureMapLotteryRecord.py" />
+        <option value="$PROJECT_DIR$/data/live_show_center_data/enter_leave_LiveRoom_data.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_6_data/get_auction_product_detail_info_vo_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_6/test_005_get_auction_product_detail_info_vo.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_6_data/bid_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_6/test_006_bid.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_6_data/get_auction_bid_list_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_6/test_007_get_auction_bid_list.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_7_data/car_game_show_info_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_7/test_001_car_game_show_info.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_7_data/fresh_total_input_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_7/test_002_fresh_total_input_data.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_7_data/start_betting_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_7/test_003_start_betting.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_7_data/award_history_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_7/test_004_award_history.py" />
+        <option value="$PROJECT_DIR$/data/V2_4_7_data/award_user_list_data.py" />
+        <option value="$PROJECT_DIR$/case/V2_4_7/test_005_award_user_list.py" />
+        <option value="$PROJECT_DIR$/case/V.py" />
+        <option value="$PROJECT_DIR$/case/uaa/test_001_fast_login.py" />
+        <option value="$PROJECT_DIR$/case/Mokademo/test_01.py" />
+        <option value="$PROJECT_DIR$/data/sjht_sygl_data/__init__.py" />
+        <option value="$PROJECT_DIR$/case/sjht_sygl/__init__.py" />
+        <option value="$PROJECT_DIR$/case/sjht_sygl/scan-query-user.py" />
+        <option value="$PROJECT_DIR$/data/sjht_sygl_data/scan-query-user.py" />
+        <option value="$PROJECT_DIR$/data/sjht_sygl_data/scan-query-user_data.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/case/sjht_sygl/test_001_scan-query-user.py" />
+        <option value="$PROJECT_DIR$/data/sjht_sygl_data/scanqueryuser_data.py" />
+        <option value="$PROJECT_DIR$/data/com_data.py" />
+        <option value="$PROJECT_DIR$/case/sjht_login/test_001_login.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/case/sjht_sygl/test_001_scan_query_user.py" />
+        <option value="$PROJECT_DIR$/case/sjht_sygl/test_003.py" />
+        <option value="$PROJECT_DIR$/data/sjht_sygl_data/cash_manager_confirm_data.py" />
+        <option value="$PROJECT_DIR$/case/sjht_sygl/test_002_cash_manager_confirm.py" />
+        <option value="$PROJECT_DIR$/data/sjht_sygl_data/single_out_confirm_data.py" />
+        <option value="$PROJECT_DIR$/case/sjht_sygl/test_003_cash-manager_single_out_confirm.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/testcase/Mokademo/test.py" />
+        <option value="$PROJECT_DIR$/common/get_token.py" />
+        <option value="$PROJECT_DIR$/testcase/sjht_login/test_001_login.py" />
+        <option value="$PROJECT_DIR$/data/sjht_login_data/login_data.py" />
+        <option value="$PROJECT_DIR$/common/delete_table.py" />
+        <option value="$PROJECT_DIR$/testcase/sjht_sygl/test_003_cash-manager_single_out_confirm.py" />
+        <option value="$PROJECT_DIR$/testcase/Mokademo/demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="148" />
+    <option name="y" value="107" />
+    <option name="width" value="1674" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Moka_interfacetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Moka_interfacetest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Moka_interfacetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Moka_interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Moka_interfacetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Moka_interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Moka_interfacetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Moka_interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="Mokademo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Moka_project\Moka_interfacetest" />
+      <recent name="D:\apitest\case\lianMai" />
+      <recent name="D:\apitest\data\lianMai_data" />
+      <recent name="D:\apitest\case\settlement" />
+      <recent name="D:\apitest\case\systemconfig_center" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\apitest\case" />
+      <recent name="D:\apitest\data" />
+      <recent name="D:\apitest\data\V2_4_3_data" />
+      <recent name="D:\apitest\case\lianMai" />
+      <recent name="D:\apitest\data\live_show_center_data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_003_cash-manager_single_out_confirm.py">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Moka_interfacetest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="delete_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moka_interfacetest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/delete_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moka_interfacetest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/Mokademo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/Mokademo/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_001_scan_query_user.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Moka_interfacetest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/sjht_sygl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/sjht_sygl/test_001_scan_query_user.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_002_cash_manager_confirm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Moka_interfacetest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/sjht_sygl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/sjht_sygl/test_002_cash_manager_confirm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Moka_interfacetest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/sjht_sygl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/sjht_sygl/test_003_cash-manager_single_out_confirm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.delete_table" />
+      <item itemvalue="Python tests.pytest in test_002_cash_manager_confirm.py" />
+      <item itemvalue="Python tests.pytest in test_001_scan_query_user.py" />
+      <item itemvalue="Python tests.pytest in test_003_cash-manager_single_out_confirm.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_003_cash-manager_single_out_confirm.py" />
+        <item itemvalue="Python.delete_table" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python tests.pytest in test_002_cash_manager_confirm.py" />
+        <item itemvalue="Python tests.pytest in test_001_scan_query_user.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e85fb215-ce3e-47db-b022-316455973965" name="Default Changelist" comment="" />
+      <created>1560851318056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560851318056</updated>
+      <workItem from="1560851320160" duration="24072000" />
+      <workItem from="1561459352317" duration="213000" />
+      <workItem from="1561462102971" duration="6559000" />
+      <workItem from="1561541009098" duration="8699000" />
+      <workItem from="1561634394071" duration="3806000" />
+      <workItem from="1561685357001" duration="90000" />
+      <workItem from="1561712113866" duration="1048000" />
+      <workItem from="1561977179119" duration="24846000" />
+      <workItem from="1562116099161" duration="19221000" />
+      <workItem from="1562309228242" duration="39373000" />
+      <workItem from="1562894257948" duration="69483000" />
+      <workItem from="1563696638122" duration="8105000" />
+      <workItem from="1564025296402" duration="12354000" />
+      <workItem from="1564968485762" duration="55559000" />
+      <workItem from="1565318365485" duration="14945000" />
+      <workItem from="1565574171695" duration="19912000" />
+      <workItem from="1566280933177" duration="36040000" />
+      <workItem from="1566461487440" duration="3811000" />
+      <workItem from="1566559077755" duration="862000" />
+      <workItem from="1566867634205" duration="65644000" />
+      <workItem from="1567404841197" duration="8289000" />
+      <workItem from="1567474313832" duration="12732000" />
+      <workItem from="1567586112460" duration="3611000" />
+      <workItem from="1567664007426" duration="2203000" />
+      <workItem from="1568078008008" duration="11766000" />
+      <workItem from="1568622679173" duration="5075000" />
+      <workItem from="1568682507015" duration="48732000" />
+      <workItem from="1569201345850" duration="82568000" />
+      <workItem from="1569719081395" duration="29577000" />
+      <workItem from="1570523886414" duration="36735000" />
+      <workItem from="1571107516385" duration="9975000" />
+      <workItem from="1571187405069" duration="5826000" />
+      <workItem from="1571194348288" duration="1165000" />
+      <workItem from="1571295357982" duration="5211000" />
+      <workItem from="1571362369961" duration="11764000" />
+      <workItem from="1571620619158" duration="1412000" />
+      <workItem from="1571624492573" duration="2553000" />
+      <workItem from="1571629936327" duration="12022000" />
+      <workItem from="1571707256642" duration="23193000" />
+      <workItem from="1571792320644" duration="22659000" />
+      <workItem from="1571879414805" duration="4340000" />
+      <workItem from="1571885106445" duration="406000" />
+      <workItem from="1571885523970" duration="2745000" />
+      <workItem from="1571888284867" duration="2843000" />
+      <workItem from="1571903600998" duration="8147000" />
+      <workItem from="1572421050307" duration="3454000" />
+      <workItem from="1572510281253" duration="6412000" />
+      <workItem from="1572943702813" duration="2974000" />
+      <workItem from="1573003318749" duration="2385000" />
+    </task>
+    <task id="LOCAL-00001" summary="优化框架 使用 parameter参数化 设计用例">
+      <created>1571792526042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571792526042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="删除 椰趣部分">
+      <created>1571812830938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571812830938</updated>
+    </task>
+    <task id="LOCAL-00003" summary="确认入场">
+      <created>1571827424754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571827424754</updated>
+    </task>
+    <task id="LOCAL-00004" summary="确认入场">
+      <created>1571881859611</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571881859611</updated>
+    </task>
+    <task id="LOCAL-00005" summary="确认入场">
+      <created>1571889670926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571889670927</updated>
+    </task>
+    <task id="LOCAL-00006" summary="确认入场">
+      <created>1571902851274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571902851274</updated>
+    </task>
+    <task id="LOCAL-00007" summary="确认入场">
+      <created>1571912705875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571912705875</updated>
+    </task>
+    <task id="LOCAL-00008" summary="确认入场">
+      <created>1571912713828</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571912713828</updated>
+    </task>
+    <task id="LOCAL-00009" summary="确认出场。校验消费金额。校验进出场时间。">
+      <created>1572520093154</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572520093154</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.24 at 17h 39m 37s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 38m 11s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 38m 45s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 39m 29s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 40m 34s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 42m 30s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 43m 28s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 48m 31s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 48m 49s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_003_cash-manager_single_out_confirm_py - 2019.10.31 at 16h 49m 03s.xml">
+      <configuration name="pytest in test_003_cash-manager_single_out_confirm.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="785416000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.22814499" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.54183674" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49814126" weight="0.32794458" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9259062" weight="0.23535791" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8272921" weight="0.38937092" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49876085" weight="0.45842957" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.07409382" side_tool="true" visible="true" weight="0.15618221" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.9157783" weight="0.24403471" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49814126" weight="0.32794458" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.31503198" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.54183674" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25785482" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="优化框架 使用 parameter参数化 设计用例" />
+    <MESSAGE value="删除 椰趣部分" />
+    <MESSAGE value="确认入场" />
+    <MESSAGE value="确认出场。校验消费金额。校验进出场时间。" />
+    <option name="LAST_COMMIT_MESSAGE" value="确认出场。校验消费金额。校验进出场时间。" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/sjht_sygl_data/scanqueryuser_data.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="django-exception">
+          <properties exception="VariableDoesNotExist" />
+        </breakpoint>
+        <breakpoint enabled="true" type="jinja2-exception">
+          <properties exception="TemplateError" />
+        </breakpoint>
+        <breakpoint enabled="true" type="jupyter-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$test_001_fast_login.coverage" NAME="test_001_fast_login Coverage Results" MODIFIED="1571644020721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/uaa" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_for_test_001_login_Test_sjhtlogin_test_login.coverage" NAME="pytest for test_001_login.Test_sjhtlogin.test_login Coverage Results" MODIFIED="1571725874035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_login" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_for_test_001_fast_login_TestFastLogin_test_1_login.coverage" NAME="pytest for test_001_fast_login.TestFastLogin.test_1_login Coverage Results" MODIFIED="1571636989087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/uaa" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$scanqueryuser_data.coverage" NAME="scanqueryuser_data Coverage Results" MODIFIED="1571795698041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/sjht_sygl_data" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1571637307503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_for_test_002_cash_manager_confirm_Testmanagerconfirm_test_manger_confirm.coverage" NAME="pytest for test_002_cash_manager_confirm.Testmanagerconfirm.test_manger_confirm Coverage Results" MODIFIED="1571818499306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_sygl" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_in_test_002_cash_manager_confirm_py.coverage" NAME="pytest in test_002_cash_manager_confirm.py Coverage Results" MODIFIED="1571822737152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_sygl" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_for_test_001_login_Test_sjhtlogin_test_eval.coverage" NAME="pytest for test_001_login.Test_sjhtlogin.test_eval Coverage Results" MODIFIED="1571724785089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_login" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_for_test_002_cash_manager_confirm_TestManagerconfirm.coverage" NAME="pytest for test_002_cash_manager_confirm.TestManagerconfirm Coverage Results" MODIFIED="1571821656542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_sygl" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$delete_table.coverage" NAME="delete_table Coverage Results" MODIFIED="1572510689290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_in_test_001_login_py.coverage" NAME="pytest in test_001_login.py Coverage Results" MODIFIED="1571819485758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_login" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_in_test_003_py.coverage" NAME="pytest in test_003.py Coverage Results" MODIFIED="1571822301854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_sygl" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$demo.coverage" NAME="demo Coverage Results" MODIFIED="1571909713874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/Mokademo" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_for_test_002_cash_manager_confirm_Test_manager_confirm_test_second_entrance.coverage" NAME="pytest for test_002_cash_manager_confirm.Test_manager_confirm.test_second_entrance Coverage Results" MODIFIED="1571818193000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_sygl" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_in_test_01_py.coverage" NAME="pytest in test_01.py Coverage Results" MODIFIED="1571647755768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/Mokademo" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$com_data.coverage" NAME="com_data Coverage Results" MODIFIED="1571809573145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_for_test_001_scan_query_user_TestSjsm_test_smrc.coverage" NAME="pytest for test_001_scan-query-user.TestSjsm.test_smrc Coverage Results" MODIFIED="1571809610271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_sygl" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_in_test_001_scan_query_user_py.coverage" NAME="pytest in test_001_scan_query_user.py Coverage Results" MODIFIED="1571822130349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/sjht_sygl" />
+    <SUITE FILE_PATH="coverage/Moka_interfacetest$pytest_in_test_003_cash_manager_single_out_confirm_py.coverage" NAME="pytest in test_003_cash-manager_single_out_confirm.py Coverage Results" MODIFIED="1572511742700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/sjht_sygl" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/case/V2_4_7/test_003_start_betting.py" />
+    <entry file="file://$PROJECT_DIR$/case/V2_4_7/test_002_fresh_total_input.py" />
+    <entry file="file://$PROJECT_DIR$/data/V2_4_6_data/purchase_in_coco_bean_data.py" />
+    <entry file="file://$PROJECT_DIR$/case/V2_4_7/test_004_award_history.py" />
+    <entry file="file://$PROJECT_DIR$/data/V2_4_7_data/award_history_data.py" />
+    <entry file="file://$PROJECT_DIR$/case/V.py" />
+    <entry file="file://$PROJECT_DIR$/case/V2_4_7/test_005_award_user_list.py" />
+    <entry file="file://$PROJECT_DIR$/data/V2_4_7_data/award_user_list_data.py" />
+    <entry file="file://$PROJECT_DIR$/case/V2_4_3/test_005_guard.py" />
+    <entry file="file://$PROJECT_DIR$/data/V2_4_3_data/guard_data.py" />
+    <entry file="file://$PROJECT_DIR$/case/V2_5_2/test_007_getGiftNamingBattleBillboard.py" />
+    <entry file="file://$PROJECT_DIR$/data/uaa_data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/test_report_2019-10-16 10_55_46.html" />
+    <entry file="file://$PROJECT_DIR$/case/daily_task/test_001_daily_task.py" />
+    <entry file="file://$PROJECT_DIR$/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/_pytest/capture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="421" selection-start-line="421" selection-end-line="421" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sjht_sygl_data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_process_net_command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="567" selection-start-line="567" selection-end-line="567" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/uaa_data/fast_login_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/sjht_sygl/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/uaa/test_003_login.py" />
+    <entry file="file://$PROJECT_DIR$/case/uaa/test_004_logout.py" />
+    <entry file="file://$PROJECT_DIR$/data/com_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/uaa/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/common/assertion_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/uaa/test_001_fast_login.py" />
+    <entry file="file://$PROJECT_DIR$/case/uaa/test_002_forget_password.py" />
+    <entry file="file://$PROJECT_DIR$/allure-2.13.0/bin/allure">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-report/index.html" />
+    <entry file="file://$PROJECT_DIR$/testcase/sjht_sygl/test_002_cash_manager_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/sjht_sygl/test_001_scan_query_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" column="27" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-2.13.0/plugins/screen-diff-plugin/allure-plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allure-2.13.0/plugins/custom-logo-plugin/allure-plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/html/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6738">
+          <caret line="38" column="188795" selection-start-line="38" selection-start-column="188795" selection-end-line="38" selection-end-column="188795" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/Mokademo/test.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#27#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/get_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/sjht_login/test_001_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="31" column="86" lean-forward="true" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sjht_login_data/login_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sjht_sygl_data/cash_manager_confirm_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/delete_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sjht_sygl_data/single_out_confirm_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/sjht_sygl/test_003_cash-manager_single_out_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sjht_sygl_data/scanqueryuser_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#26#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/Mokademo/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/Mokademo/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

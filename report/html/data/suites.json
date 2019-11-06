@@ -1,0 +1,174 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase.Mokademo",
+    "children" : [ {
+      "name" : "test_01",
+      "children" : [ {
+        "name" : "Test_demo1",
+        "children" : [ {
+          "name" : "test_01",
+          "uid" : "983a52cf7e5dc0bf",
+          "parentUid" : "8fdef4d7511850538163738309e203c1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1571904117823,
+            "stop" : 1571904117823,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8fdef4d7511850538163738309e203c1"
+      } ],
+      "uid" : "0eac4cc04361bf2fa2d5915d582e2027"
+    } ],
+    "uid" : "cbf01c2b84f57186ee757489a98dcef6"
+  }, {
+    "name" : "testcase.sjht_login",
+    "children" : [ {
+      "name" : "test_001_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login1[loginMsg0-用户名或密码错误]",
+          "uid" : "1946956ff7e3b8da",
+          "parentUid" : "4239ce400ced7fcd06497c9c28796843",
+          "status" : "failed",
+          "time" : {
+            "start" : 1571904117826,
+            "stop" : 1571904117910,
+            "duration" : 84
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'login': 'admin', 'pwd': '123456'}", "'用户名或密码错误'" ]
+        }, {
+          "name" : "test_login1[loginMsg1-成功]",
+          "uid" : "ec69a9b1e1215eb9",
+          "parentUid" : "4239ce400ced7fcd06497c9c28796843",
+          "status" : "failed",
+          "time" : {
+            "start" : 1571904117943,
+            "stop" : 1571904118004,
+            "duration" : 61
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'login': 'admin', 'pwd': '111111'}", "'成功'" ]
+        } ],
+        "uid" : "4239ce400ced7fcd06497c9c28796843"
+      } ],
+      "uid" : "de6d5326f0bdbaaf5ca8531550bd9d3f"
+    } ],
+    "uid" : "f763d95daf3fc350e7faa3664bd8aeeb"
+  }, {
+    "name" : "testcase.sjht_sygl",
+    "children" : [ {
+      "name" : "test_001_scan_query_user",
+      "children" : [ {
+        "name" : "TestSjsm",
+        "children" : [ {
+          "name" : "test_smrc[user0-用户不存在！]",
+          "uid" : "5ec1c3dd4d2f83a7",
+          "parentUid" : "abda8d7166686c65f1c43c36c47830e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1571904118011,
+            "stop" : 1571904118145,
+            "duration" : 134
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'用户不存在！'", "{'userId': 572}" ]
+        }, {
+          "name" : "test_smrc[user1-成功]",
+          "uid" : "ea8376357655e424",
+          "parentUid" : "abda8d7166686c65f1c43c36c47830e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1571904118149,
+            "stop" : 1571904118414,
+            "duration" : 265
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'成功'", "{'userId': 16}" ]
+        } ],
+        "uid" : "abda8d7166686c65f1c43c36c47830e5"
+      } ],
+      "uid" : "1b2b8d894cb17fdaa4cf718bc4a9f5da"
+    }, {
+      "name" : "test_002_cash_manager_confirm",
+      "children" : [ {
+        "name" : "TestEntrance",
+        "children" : [ {
+          "name" : "test_manger_confirm[user0-用户不存在！]",
+          "uid" : "cb2a059e149e0c36",
+          "parentUid" : "6ba3cdfc2acc74bd8775f7f27ae96121",
+          "status" : "passed",
+          "time" : {
+            "start" : 1571904118417,
+            "stop" : 1571904118544,
+            "duration" : 127
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'用户不存在！'", "{'userId': 1399, 'enterNum': 1}" ]
+        }, {
+          "name" : "test_manger_confirm[user1-成功]",
+          "uid" : "c00d917168ceace9",
+          "parentUid" : "6ba3cdfc2acc74bd8775f7f27ae96121",
+          "status" : "passed",
+          "time" : {
+            "start" : 1571904118547,
+            "stop" : 1571904118852,
+            "duration" : 305
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'成功'", "{'userId': 36, 'enterNum': 1}" ]
+        }, {
+          "name" : "test_01",
+          "uid" : "97f119d7b30c380a",
+          "parentUid" : "6ba3cdfc2acc74bd8775f7f27ae96121",
+          "status" : "passed",
+          "time" : {
+            "start" : 1571904118856,
+            "stop" : 1571904119029,
+            "duration" : 173
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6ba3cdfc2acc74bd8775f7f27ae96121"
+      } ],
+      "uid" : "13a1fde587c39188de68672d8df793d0"
+    }, {
+      "name" : "test_003_cash-manager_single_out_confirm",
+      "children" : [ {
+        "name" : "TestOutConfirm",
+        "children" : [ {
+          "name" : "test_out_confirm",
+          "uid" : "8db9ebe0d9cf8fab",
+          "parentUid" : "d568e2d1e1d4fecde367008bd81f5e6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1571904119032,
+            "stop" : 1571904119359,
+            "duration" : 327
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d568e2d1e1d4fecde367008bd81f5e6e"
+      } ],
+      "uid" : "1d22801a5ae3f005be2f0ca89c5fa7b8"
+    } ],
+    "uid" : "df6589eddf4f23ac5009caff65d0f2f0"
+  } ]
+}
